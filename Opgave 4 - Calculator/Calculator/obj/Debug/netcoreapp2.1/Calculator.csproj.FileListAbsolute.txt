@@ -1,0 +1,22 @@
+C:\Users\cisco testbed\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.deps.json
+C:\Users\cisco testbed\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.json
+C:\Users\cisco testbed\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.dev.json
+C:\Users\cisco testbed\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.dll
+C:\Users\cisco testbed\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.pdb
+C:\Users\cisco testbed\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.csprojAssemblyReference.cache
+C:\Users\cisco testbed\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\cisco testbed\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\cisco testbed\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfo.cs
+C:\Users\cisco testbed\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.dll
+C:\Users\cisco testbed\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.pdb
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.deps.json
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.json
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.dev.json
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.dll
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.pdb
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.csprojAssemblyReference.cache
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfo.cs
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.dll
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.pdb

@@ -1,0 +1,11 @@
+C:\Users\cisco testbed\source\repos\Opgave 1 - BrugerInfo\Opgave 1 - BrugerInfo\bin\Debug\netcoreapp2.1\Opgave 1 - BrugerInfo.deps.json
+C:\Users\cisco testbed\source\repos\Opgave 1 - BrugerInfo\Opgave 1 - BrugerInfo\bin\Debug\netcoreapp2.1\Opgave 1 - BrugerInfo.runtimeconfig.json
+C:\Users\cisco testbed\source\repos\Opgave 1 - BrugerInfo\Opgave 1 - BrugerInfo\bin\Debug\netcoreapp2.1\Opgave 1 - BrugerInfo.runtimeconfig.dev.json
+C:\Users\cisco testbed\source\repos\Opgave 1 - BrugerInfo\Opgave 1 - BrugerInfo\bin\Debug\netcoreapp2.1\Opgave 1 - BrugerInfo.dll
+C:\Users\cisco testbed\source\repos\Opgave 1 - BrugerInfo\Opgave 1 - BrugerInfo\bin\Debug\netcoreapp2.1\Opgave 1 - BrugerInfo.pdb
+C:\Users\cisco testbed\source\repos\Opgave 1 - BrugerInfo\Opgave 1 - BrugerInfo\obj\Debug\netcoreapp2.1\Opgave 1 - BrugerInfo.csprojAssemblyReference.cache
+C:\Users\cisco testbed\source\repos\Opgave 1 - BrugerInfo\Opgave 1 - BrugerInfo\obj\Debug\netcoreapp2.1\Opgave 1 - BrugerInfo.csproj.CoreCompileInputs.cache
+C:\Users\cisco testbed\source\repos\Opgave 1 - BrugerInfo\Opgave 1 - BrugerInfo\obj\Debug\netcoreapp2.1\Opgave 1 - BrugerInfo.AssemblyInfoInputs.cache
+C:\Users\cisco testbed\source\repos\Opgave 1 - BrugerInfo\Opgave 1 - BrugerInfo\obj\Debug\netcoreapp2.1\Opgave 1 - BrugerInfo.AssemblyInfo.cs
+C:\Users\cisco testbed\source\repos\Opgave 1 - BrugerInfo\Opgave 1 - BrugerInfo\obj\Debug\netcoreapp2.1\Opgave 1 - BrugerInfo.dll
+C:\Users\cisco testbed\source\repos\Opgave 1 - BrugerInfo\Opgave 1 - BrugerInfo\obj\Debug\netcoreapp2.1\Opgave 1 - BrugerInfo.pdb

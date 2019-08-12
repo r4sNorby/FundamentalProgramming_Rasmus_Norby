@@ -1,0 +1,11 @@
+C:\Users\cisco testbed\source\repos\TiTabel - Opgave 2\TiTabel - Opgave 2\bin\Debug\netcoreapp2.1\TiTabel - Opgave 2.deps.json
+C:\Users\cisco testbed\source\repos\TiTabel - Opgave 2\TiTabel - Opgave 2\bin\Debug\netcoreapp2.1\TiTabel - Opgave 2.runtimeconfig.json
+C:\Users\cisco testbed\source\repos\TiTabel - Opgave 2\TiTabel - Opgave 2\bin\Debug\netcoreapp2.1\TiTabel - Opgave 2.runtimeconfig.dev.json
+C:\Users\cisco testbed\source\repos\TiTabel - Opgave 2\TiTabel - Opgave 2\bin\Debug\netcoreapp2.1\TiTabel - Opgave 2.dll
+C:\Users\cisco testbed\source\repos\TiTabel - Opgave 2\TiTabel - Opgave 2\bin\Debug\netcoreapp2.1\TiTabel - Opgave 2.pdb
+C:\Users\cisco testbed\source\repos\TiTabel - Opgave 2\TiTabel - Opgave 2\obj\Debug\netcoreapp2.1\TiTabel - Opgave 2.csprojAssemblyReference.cache
+C:\Users\cisco testbed\source\repos\TiTabel - Opgave 2\TiTabel - Opgave 2\obj\Debug\netcoreapp2.1\TiTabel - Opgave 2.csproj.CoreCompileInputs.cache
+C:\Users\cisco testbed\source\repos\TiTabel - Opgave 2\TiTabel - Opgave 2\obj\Debug\netcoreapp2.1\TiTabel - Opgave 2.AssemblyInfoInputs.cache
+C:\Users\cisco testbed\source\repos\TiTabel - Opgave 2\TiTabel - Opgave 2\obj\Debug\netcoreapp2.1\TiTabel - Opgave 2.AssemblyInfo.cs
+C:\Users\cisco testbed\source\repos\TiTabel - Opgave 2\TiTabel - Opgave 2\obj\Debug\netcoreapp2.1\TiTabel - Opgave 2.dll
+C:\Users\cisco testbed\source\repos\TiTabel - Opgave 2\TiTabel - Opgave 2\obj\Debug\netcoreapp2.1\TiTabel - Opgave 2.pdb
