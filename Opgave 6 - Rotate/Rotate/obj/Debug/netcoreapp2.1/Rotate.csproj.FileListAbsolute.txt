@@ -1,0 +1,22 @@
+C:\Users\Rasmus\source\repos\Rotate\Rotate\obj\Debug\netcoreapp2.1\Rotate.csprojAssemblyReference.cache
+C:\Users\Rasmus\source\repos\Rotate\Rotate\obj\Debug\netcoreapp2.1\Rotate.csproj.CoreCompileInputs.cache
+C:\Users\Rasmus\source\repos\Rotate\Rotate\obj\Debug\netcoreapp2.1\Rotate.AssemblyInfoInputs.cache
+C:\Users\Rasmus\source\repos\Rotate\Rotate\obj\Debug\netcoreapp2.1\Rotate.AssemblyInfo.cs
+C:\Users\Rasmus\source\repos\Rotate\Rotate\bin\Debug\netcoreapp2.1\Rotate.deps.json
+C:\Users\Rasmus\source\repos\Rotate\Rotate\bin\Debug\netcoreapp2.1\Rotate.runtimeconfig.json
+C:\Users\Rasmus\source\repos\Rotate\Rotate\bin\Debug\netcoreapp2.1\Rotate.runtimeconfig.dev.json
+C:\Users\Rasmus\source\repos\Rotate\Rotate\bin\Debug\netcoreapp2.1\Rotate.dll
+C:\Users\Rasmus\source\repos\Rotate\Rotate\bin\Debug\netcoreapp2.1\Rotate.pdb
+C:\Users\Rasmus\source\repos\Rotate\Rotate\obj\Debug\netcoreapp2.1\Rotate.dll
+C:\Users\Rasmus\source\repos\Rotate\Rotate\obj\Debug\netcoreapp2.1\Rotate.pdb
+C:\Users\cisco testbed\source\repos\Rotate\Rotate\bin\Debug\netcoreapp2.1\Rotate.deps.json
+C:\Users\cisco testbed\source\repos\Rotate\Rotate\bin\Debug\netcoreapp2.1\Rotate.runtimeconfig.json
+C:\Users\cisco testbed\source\repos\Rotate\Rotate\bin\Debug\netcoreapp2.1\Rotate.runtimeconfig.dev.json
+C:\Users\cisco testbed\source\repos\Rotate\Rotate\bin\Debug\netcoreapp2.1\Rotate.dll
+C:\Users\cisco testbed\source\repos\Rotate\Rotate\bin\Debug\netcoreapp2.1\Rotate.pdb
+C:\Users\cisco testbed\source\repos\Rotate\Rotate\obj\Debug\netcoreapp2.1\Rotate.csprojAssemblyReference.cache
+C:\Users\cisco testbed\source\repos\Rotate\Rotate\obj\Debug\netcoreapp2.1\Rotate.csproj.CoreCompileInputs.cache
+C:\Users\cisco testbed\source\repos\Rotate\Rotate\obj\Debug\netcoreapp2.1\Rotate.AssemblyInfoInputs.cache
+C:\Users\cisco testbed\source\repos\Rotate\Rotate\obj\Debug\netcoreapp2.1\Rotate.AssemblyInfo.cs
+C:\Users\cisco testbed\source\repos\Rotate\Rotate\obj\Debug\netcoreapp2.1\Rotate.dll
+C:\Users\cisco testbed\source\repos\Rotate\Rotate\obj\Debug\netcoreapp2.1\Rotate.pdb
