@@ -121,13 +121,12 @@ namespace Parring
 
         static void SortArray(int[] a, int n)
         {
+            // These loops runs through the rest of the numbers trying to find a pair
             for (int i = 0; i < n; i++)
             {
-                // This loop runs through the rest of the numbers trying to find a pair
                 for (int j = i + 1; j < n; j++)
                 {
-                    // In case 'j' finds an integer that matches 'i', it swaps 'j' with 
-                    // the integer right of 'i', effectively creating a "pair" of integers next to each other
+                    // If j is smaller than i, swap them
                     if (a[j] < a[i])
                     {
                         int temp = a[i];
