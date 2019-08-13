@@ -65,8 +65,8 @@ namespace Parring
             }
 
             // ...and then printed
-            Console.WriteLine("Array after pairing: [{0}] ", string.Join(", ", a));
-            Console.WriteLine("The value '{0}' can't be paired", x);
+            Console.WriteLine("\nArray after pairing: [{0}] ", string.Join(", ", a));
+            Console.WriteLine("\nThe value '{0}' can't be paired", x);
             Console.ReadKey();
         }
     }

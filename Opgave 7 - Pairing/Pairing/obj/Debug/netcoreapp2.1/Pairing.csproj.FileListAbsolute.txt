@@ -20,3 +20,14 @@ P:\Hovedforløb 1\Grundlæggende Programmering\Pairing\Pairing\obj\Debug\netcore
 P:\Hovedforløb 1\Grundlæggende Programmering\Pairing\Pairing\obj\Debug\netcoreapp2.1\Pairing.AssemblyInfo.cs
 P:\Hovedforløb 1\Grundlæggende Programmering\Pairing\Pairing\obj\Debug\netcoreapp2.1\Pairing.dll
 P:\Hovedforløb 1\Grundlæggende Programmering\Pairing\Pairing\obj\Debug\netcoreapp2.1\Pairing.pdb
+C:\Users\cisco testbed\source\repos\Opgave 7 - Pairing\Pairing\bin\Debug\netcoreapp2.1\Pairing.deps.json
+C:\Users\cisco testbed\source\repos\Opgave 7 - Pairing\Pairing\bin\Debug\netcoreapp2.1\Pairing.runtimeconfig.json
+C:\Users\cisco testbed\source\repos\Opgave 7 - Pairing\Pairing\bin\Debug\netcoreapp2.1\Pairing.runtimeconfig.dev.json
+C:\Users\cisco testbed\source\repos\Opgave 7 - Pairing\Pairing\bin\Debug\netcoreapp2.1\Pairing.dll
+C:\Users\cisco testbed\source\repos\Opgave 7 - Pairing\Pairing\bin\Debug\netcoreapp2.1\Pairing.pdb
+C:\Users\cisco testbed\source\repos\Opgave 7 - Pairing\Pairing\obj\Debug\netcoreapp2.1\Pairing.csprojAssemblyReference.cache
+C:\Users\cisco testbed\source\repos\Opgave 7 - Pairing\Pairing\obj\Debug\netcoreapp2.1\Pairing.csproj.CoreCompileInputs.cache
+C:\Users\cisco testbed\source\repos\Opgave 7 - Pairing\Pairing\obj\Debug\netcoreapp2.1\Pairing.AssemblyInfoInputs.cache
+C:\Users\cisco testbed\source\repos\Opgave 7 - Pairing\Pairing\obj\Debug\netcoreapp2.1\Pairing.AssemblyInfo.cs
+C:\Users\cisco testbed\source\repos\Opgave 7 - Pairing\Pairing\obj\Debug\netcoreapp2.1\Pairing.dll
+C:\Users\cisco testbed\source\repos\Opgave 7 - Pairing\Pairing\obj\Debug\netcoreapp2.1\Pairing.pdb

@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Rasmus\\.nuget\\packages\\": {},
+    "C:\\Users\\cisco testbed\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rasmus\\source\\repos\\Hovedforløb 1\\Grundlæggende Programmering\\Pairing\\Pairing\\Pairing.csproj",
+      "projectUniqueName": "C:\\Users\\cisco testbed\\source\\repos\\Opgave 7 - Pairing\\Pairing\\Pairing.csproj",
       "projectName": "Pairing",
-      "projectPath": "C:\\Users\\Rasmus\\source\\repos\\Hovedforløb 1\\Grundlæggende Programmering\\Pairing\\Pairing\\Pairing.csproj",
-      "packagesPath": "C:\\Users\\Rasmus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rasmus\\source\\repos\\Hovedforløb 1\\Grundlæggende Programmering\\Pairing\\Pairing\\obj\\",
+      "projectPath": "C:\\Users\\cisco testbed\\source\\repos\\Opgave 7 - Pairing\\Pairing\\Pairing.csproj",
+      "packagesPath": "C:\\Users\\cisco testbed\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cisco testbed\\source\\repos\\Opgave 7 - Pairing\\Pairing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Rasmus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cisco testbed\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
