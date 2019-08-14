@@ -17,7 +17,6 @@ namespace Opgave_1___BrugerInfo
         {
             Console.Clear();
             Console.WriteLine("Tryk på I for at indtaste data");
-            Console.WriteLine("Tryk på S for at se forrige data");
 
             ConsoleKeyInfo button = Console.ReadKey();
 
@@ -25,8 +24,6 @@ namespace Opgave_1___BrugerInfo
             {
                 case ConsoleKey.I:
                     Input();
-                    break;
-                case ConsoleKey.S:
                     break;
                 default:
                     MainMenu();
@@ -86,7 +83,7 @@ namespace Opgave_1___BrugerInfo
             }
             Console.WriteLine("Tryk på en tast for at gå tilbage til Menuen");
             Console.ReadKey();
-            Input();
+            MainMenu();
         }
 
         static int Control(string input)
