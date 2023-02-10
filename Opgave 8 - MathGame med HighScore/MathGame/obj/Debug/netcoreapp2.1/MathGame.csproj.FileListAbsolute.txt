@@ -1,0 +1,55 @@
+C:\Users\cisco testbed\source\repos\MathGame\MathGame\bin\Debug\netcoreapp2.1\MathGame.deps.json
+C:\Users\cisco testbed\source\repos\MathGame\MathGame\bin\Debug\netcoreapp2.1\MathGame.runtimeconfig.json
+C:\Users\cisco testbed\source\repos\MathGame\MathGame\bin\Debug\netcoreapp2.1\MathGame.runtimeconfig.dev.json
+C:\Users\cisco testbed\source\repos\MathGame\MathGame\bin\Debug\netcoreapp2.1\MathGame.dll
+C:\Users\cisco testbed\source\repos\MathGame\MathGame\bin\Debug\netcoreapp2.1\MathGame.pdb
+C:\Users\cisco testbed\source\repos\MathGame\MathGame\obj\Debug\netcoreapp2.1\MathGame.csprojAssemblyReference.cache
+C:\Users\cisco testbed\source\repos\MathGame\MathGame\obj\Debug\netcoreapp2.1\MathGame.csproj.CoreCompileInputs.cache
+C:\Users\cisco testbed\source\repos\MathGame\MathGame\obj\Debug\netcoreapp2.1\MathGame.AssemblyInfoInputs.cache
+C:\Users\cisco testbed\source\repos\MathGame\MathGame\obj\Debug\netcoreapp2.1\MathGame.AssemblyInfo.cs
+C:\Users\cisco testbed\source\repos\MathGame\MathGame\obj\Debug\netcoreapp2.1\MathGame.dll
+C:\Users\cisco testbed\source\repos\MathGame\MathGame\obj\Debug\netcoreapp2.1\MathGame.pdb
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\MathGame\MathGame\bin\Debug\netcoreapp2.1\MathGame.deps.json
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\MathGame\MathGame\bin\Debug\netcoreapp2.1\MathGame.runtimeconfig.json
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\MathGame\MathGame\bin\Debug\netcoreapp2.1\MathGame.runtimeconfig.dev.json
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\MathGame\MathGame\bin\Debug\netcoreapp2.1\MathGame.dll
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\MathGame\MathGame\bin\Debug\netcoreapp2.1\MathGame.pdb
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\MathGame\MathGame\obj\Debug\netcoreapp2.1\MathGame.csprojAssemblyReference.cache
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\MathGame\MathGame\obj\Debug\netcoreapp2.1\MathGame.csproj.CoreCompileInputs.cache
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\MathGame\MathGame\obj\Debug\netcoreapp2.1\MathGame.AssemblyInfoInputs.cache
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\MathGame\MathGame\obj\Debug\netcoreapp2.1\MathGame.AssemblyInfo.cs
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\MathGame\MathGame\obj\Debug\netcoreapp2.1\MathGame.dll
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\MathGame\MathGame\obj\Debug\netcoreapp2.1\MathGame.pdb
+P:\Hovedforløb 1\Grundlæggende Programmering\MathGame\MathGame\bin\Debug\netcoreapp2.1\MathGame.deps.json
+P:\Hovedforløb 1\Grundlæggende Programmering\MathGame\MathGame\bin\Debug\netcoreapp2.1\MathGame.runtimeconfig.json
+P:\Hovedforløb 1\Grundlæggende Programmering\MathGame\MathGame\bin\Debug\netcoreapp2.1\MathGame.runtimeconfig.dev.json
+P:\Hovedforløb 1\Grundlæggende Programmering\MathGame\MathGame\bin\Debug\netcoreapp2.1\MathGame.dll
+P:\Hovedforløb 1\Grundlæggende Programmering\MathGame\MathGame\bin\Debug\netcoreapp2.1\MathGame.pdb
+P:\Hovedforløb 1\Grundlæggende Programmering\MathGame\MathGame\obj\Debug\netcoreapp2.1\MathGame.csprojAssemblyReference.cache
+P:\Hovedforløb 1\Grundlæggende Programmering\MathGame\MathGame\obj\Debug\netcoreapp2.1\MathGame.csproj.CoreCompileInputs.cache
+P:\Hovedforløb 1\Grundlæggende Programmering\MathGame\MathGame\obj\Debug\netcoreapp2.1\MathGame.AssemblyInfoInputs.cache
+P:\Hovedforløb 1\Grundlæggende Programmering\MathGame\MathGame\obj\Debug\netcoreapp2.1\MathGame.AssemblyInfo.cs
+P:\Hovedforløb 1\Grundlæggende Programmering\MathGame\MathGame\obj\Debug\netcoreapp2.1\MathGame.dll
+P:\Hovedforløb 1\Grundlæggende Programmering\MathGame\MathGame\obj\Debug\netcoreapp2.1\MathGame.pdb
+P:\Hovedforløb 1\Grundlæggende Programmering\Opgave 8 - MathGame\MathGame\obj\Debug\netcoreapp2.1\MathGame.csprojAssemblyReference.cache
+P:\Hovedforløb 1\Grundlæggende Programmering\Opgave 8 - MathGame\MathGame\obj\Debug\netcoreapp2.1\MathGame.csproj.CoreCompileInputs.cache
+P:\Hovedforløb 1\Grundlæggende Programmering\Opgave 8 - MathGame\MathGame\obj\Debug\netcoreapp2.1\MathGame.AssemblyInfoInputs.cache
+P:\Hovedforløb 1\Grundlæggende Programmering\Opgave 8 - MathGame\MathGame\obj\Debug\netcoreapp2.1\MathGame.AssemblyInfo.cs
+P:\Hovedforløb 1\Grundlæggende Programmering\Opgave 8 - MathGame\MathGame\obj\Debug\netcoreapp2.1\MathGame.dll
+P:\Hovedforløb 1\Grundlæggende Programmering\Opgave 8 - MathGame\MathGame\obj\Debug\netcoreapp2.1\MathGame.pdb
+P:\Hovedforløb 1\Grundlæggende Programmering\Opgave 8 - MathGame\MathGame\bin\Debug\netcoreapp2.1\MathGame.deps.json
+P:\Hovedforløb 1\Grundlæggende Programmering\Opgave 8 - MathGame\MathGame\bin\Debug\netcoreapp2.1\MathGame.runtimeconfig.json
+P:\Hovedforløb 1\Grundlæggende Programmering\Opgave 8 - MathGame\MathGame\bin\Debug\netcoreapp2.1\MathGame.runtimeconfig.dev.json
+P:\Hovedforløb 1\Grundlæggende Programmering\Opgave 8 - MathGame\MathGame\bin\Debug\netcoreapp2.1\MathGame.dll
+P:\Hovedforløb 1\Grundlæggende Programmering\Opgave 8 - MathGame\MathGame\bin\Debug\netcoreapp2.1\MathGame.pdb
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\Opgave 8 - MathGame\MathGame\bin\Debug\netcoreapp2.1\MathGame.deps.json
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\Opgave 8 - MathGame\MathGame\bin\Debug\netcoreapp2.1\MathGame.runtimeconfig.json
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\Opgave 8 - MathGame\MathGame\bin\Debug\netcoreapp2.1\MathGame.runtimeconfig.dev.json
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\Opgave 8 - MathGame\MathGame\bin\Debug\netcoreapp2.1\MathGame.dll
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\Opgave 8 - MathGame\MathGame\bin\Debug\netcoreapp2.1\MathGame.pdb
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\Opgave 8 - MathGame\MathGame\obj\Debug\netcoreapp2.1\MathGame.csprojAssemblyReference.cache
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\Opgave 8 - MathGame\MathGame\obj\Debug\netcoreapp2.1\MathGame.csproj.CoreCompileInputs.cache
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\Opgave 8 - MathGame\MathGame\obj\Debug\netcoreapp2.1\MathGame.AssemblyInfoInputs.cache
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\Opgave 8 - MathGame\MathGame\obj\Debug\netcoreapp2.1\MathGame.AssemblyInfo.cs
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\Opgave 8 - MathGame\MathGame\obj\Debug\netcoreapp2.1\MathGame.dll
+C:\Users\Rasmus\source\repos\Hovedforløb 1\Grundlæggende Programmering\Opgave 8 - MathGame\MathGame\obj\Debug\netcoreapp2.1\MathGame.pdb
